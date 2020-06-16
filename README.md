@@ -43,8 +43,7 @@ https://play.google.com/store/apps/details?id=com.bdcoe.abhiyantriki
 
 
 2) Clone the Repo <br/>
-
- $ git clone https://github.com/Shashank25071999/Abhiyantriki.git <br/>
- $ cd Abhiyantriki/ <br/>
- $ flutter run <br/>
+      $ git clone https://github.com/Shashank25071999/Abhiyantriki.git <br/>
+      $ cd Abhiyantriki/ <br/>
+      $ flutter run <br/>
 
