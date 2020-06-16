@@ -1,6 +1,5 @@
 
 # Abhiyantriki
-A College Event App .
 A working app to register yourself in various domains for the upcoming Hackathon.
 
 # Features of app
