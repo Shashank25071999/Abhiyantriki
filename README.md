@@ -1,16 +1,40 @@
-# abhiyantriki
 
-A new Flutter project.
+# Abhiyantriki
+A College Event App .
+A working app to register yourself in various domains for the upcoming Hackathon.
 
-## Getting Started
+# Features of app
+1) Register yourself for the Hackathon
+2) Upload your synopsis to it
+3) Download the sample synopsis
+4) Nice UI
+5) Integrated with firebase
 
-This project is a starting point for a Flutter application.
+# Dependencies
+1) Flutter
+2) Firebase
+3) Flutter Splash Screen
+4) Flutter Shared Preferences
+5) Flutter Carousel Slider
+6) Flutter Countdown
+7)  Flip Box Bar
+8) Dart HTTP
+9) Flutter spinkit
+10) Fluttet Path Provider
+11) Flutter intl
+12) Flutter File Picker
+13) Flutter URL Launcher
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# PlayStore AppLink 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://play.google.com/store/apps/details?id=com.bdcoe.abhiyantriki
+
+
+
+# Snapshots
+
+![imgonline-com-ua-resize-KzRz6fVbz1JV](https://user-images.githubusercontent.com/42460225/84773145-9e8d4f80-aff9-11ea-98d2-e593fcc1be6e.jpg) ![imgonline-com-ua-resize-SH8BMcqp6T](https://user-images.githubusercontent.com/42460225/84772856-27f05200-aff9-11ea-85ed-85645ac392cf.jpg)  ![imgonline-com-ua-resize-ovULZIYK0CPyv](https://user-images.githubusercontent.com/42460225/84774070-eeb8e180-affa-11ea-8fab-2e39ee450a5e.jpg)  ![imgonline-com-ua-resize-GuDfuobpWwt3Gv](https://user-images.githubusercontent.com/42460225/84774192-19a33580-affb-11ea-8320-4191b52f5890.jpg)  ![imgonline-com-ua-resize-3mYHze4NzF](https://user-images.githubusercontent.com/42460225/84774548-9c2bf500-affb-11ea-8603-6ffd272e5938.jpg)
+  ![imgonline-com-ua-resize-hBeDVQX7ixig](https://user-images.githubusercontent.com/42460225/84774343-4f481e80-affb-11ea-8878-813f3d805665.jpg)
+
+
