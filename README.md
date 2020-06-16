@@ -11,13 +11,13 @@ A working app to register yourself in various domains for the upcoming Hackathon
 5) Integrated with firebase
 
 # Dependencies
-1) Flutter
+[Flutter](https://flutter.dev/?gclid=CjwKCAjw26H3BRB2EiwAy32zhY0Ab85XiyQXZRGIRKSUHRRgrZZccezpmqjx9tXay7UqpS2QqgjgwxoCFCYQAvD_BwE&gclsrc=aw.ds)
 2) Firebase
 3) Flutter Splash Screen
 4) Flutter Shared Preferences
 5) Flutter Carousel Slider
 6) Flutter Countdown
-7)  Flip Box Bar
+[Flip Box Bar](https://pub.dev/packages/flip_box_bar)
 8) Dart HTTP
 9) Flutter spinkit
 10) Fluttet Path Provider
