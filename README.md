@@ -34,5 +34,7 @@ https://play.google.com/store/apps/details?id=com.bdcoe.abhiyantriki
 
 # Snapshots
 
-![Abhiyantriki first gif](https://user-images.githubusercontent.com/42460225/84781934-4b38e400-af9c-11ea-8be3-96cacd1bd6d0.gif)  ![second gif](https://user-images.githubusercontent.com/42460225/84782703-3577ee80-af9d-11ea-96a7-acc9006d3002.gif)
+![Abhiyantriki first gif](https://user-images.githubusercontent.com/42460225/84781934-4b38e400-af9c-11ea-8be3-96cacd1bd6d0.gif)  ![second gif](https://user-images.githubusercontent.com/42460225/84782703-3577ee80-af9d-11ea-96a7-acc9006d3002.gif)  
+![third gif](https://user-images.githubusercontent.com/42460225/84783321-f6966880-af9d-11ea-90e3-091eb24ca5c2.gif)
+
 
