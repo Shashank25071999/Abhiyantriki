@@ -11,19 +11,19 @@ A working app to register yourself in various domains for the upcoming Hackathon
 5) Integrated with firebase
 
 # Dependencies
-[Flutter](https://flutter.dev/?gclid=CjwKCAjw26H3BRB2EiwAy32zhY0Ab85XiyQXZRGIRKSUHRRgrZZccezpmqjx9tXay7UqpS2QqgjgwxoCFCYQAvD_BwE&gclsrc=aw.ds)
-2) Firebase
-3) Flutter Splash Screen
-4) Flutter Shared Preferences
-5) Flutter Carousel Slider
-6) Flutter Countdown
-[Flip Box Bar](https://pub.dev/packages/flip_box_bar)
-8) Dart HTTP
-9) Flutter spinkit
-10) Fluttet Path Provider
-11) Flutter intl
-12) Flutter File Picker
-13) Flutter URL Launcher
+- [Flutter](https://flutter.dev/?gclid=CjwKCAjw26H3BRB2EiwAy32zhY0Ab85XiyQXZRGIRKSUHRRgrZZccezpmqjx9tXay7UqpS2QqgjgwxoCFCYQAvD_BwE&gclsrc=aw.ds)
+- [Firebase](https://firebase.google.com/?gclid=CjwKCAjw26H3BRB2EiwAy32zhYxmlmkFbBki2q-8OGaY0_yXYnfLeW_wJcpZwmgHrYlvsogFyNqNnBoCuCsQAvD_BwE) 
+- [splashscreen ](https://pub.dev/packages/splashscreen)
+- [shared_preferences ](https://pub.dev/packages/shared_preferences)
+- [carousel_slider](https://pub.dev/packages/carousel_slider)
+- [countdown](https://pub.dev/packages/countdown)
+- [flip_box_bar](https://pub.dev/packages/flip_box_bar)
+- [http](pub.dev/packages/http)
+- [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
+- [path_provider](https://pub.dev/packages/path_provider)
+- [intl](https://pub.dev/packages/intl)
+- [file_picker](https://pub.dev/packages/file_picker)
+- [url_launcher](https://pub.dev/packages/url_launcher)
 
 
 # PlayStore AppLink 
