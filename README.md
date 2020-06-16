@@ -38,3 +38,13 @@ https://play.google.com/store/apps/details?id=com.bdcoe.abhiyantriki
 ![third gif](https://user-images.githubusercontent.com/42460225/84783321-f6966880-af9d-11ea-90e3-091eb24ca5c2.gif)
 
 
+# Getting Started
+1) [Setup Flutter](https://flutter.dev/docs/get-started/install)
+
+
+2) Clone the Repo <br/>
+
+ $ git clone https://github.com/Shashank25071999/Abhiyantriki.git <br/>
+ $ cd Abhiyantriki/ <br/>
+ $ flutter run <br/>
+
